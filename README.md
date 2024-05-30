@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patruni Dileep</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=di1eep&label=Profile%20views&color=0e75b6&style=flat" alt="di1eep" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=verylittlecoder&label=Profile%20views&color=0e75b6&style=flat" alt="verylittlecoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=di1eep" alt="di1eep" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verylittlecoder" alt="verylittlecoder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/patrunidileep" target="blank"><img src="https://img.shields.io/twitter/follow/patrunidileep?logo=twitter&style=for-the-badge" alt="patrunidileep" /></a> </p>
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/patrunidileep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patrunidileep" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/patruni-dileep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patruni-dileep" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-c_rwm3k8_s9zh-cvtg6wq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-c_rwm3k8_s9zh-cvtg6wq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/verylittlecoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/verylittlecoder" /></a><a href="https://ko-fi.com/https://ko-fi.com/verylittlecoder"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/verylittlecoder" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=di1eep&show_icons=true&locale=en&layout=compact" alt="di1eep" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verylittlecoder&show_icons=true&locale=en&layout=compact" alt="verylittlecoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=di1eep&show_icons=true&locale=en" alt="di1eep" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verylittlecoder&show_icons=true&locale=en" alt="verylittlecoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=di1eep&" alt="di1eep" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verylittlecoder&" alt="verylittlecoder" /></p>
