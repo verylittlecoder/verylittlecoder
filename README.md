@@ -46,7 +46,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.youtube.com/c/hannel/uc-c_rwm3k8_s9zh-cvtg6wq"
+    href="https://www.youtube.com/channel/UC-c_rWm3k8_S9zh-cvtG6WQ"
     target="blank"
     ><img
       align="center"
