@@ -25,7 +25,7 @@
 </p>
 
 - 💬 Ask me about **react, Angular, vue** - 📫 How to reach me
-**pd9505424580@gmail.com**
+**jsjsnssndsjjsdndnsm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
